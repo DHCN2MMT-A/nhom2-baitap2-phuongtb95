@@ -1,0 +1,60 @@
+#h1{
+  float: right;
+}
+#h2{
+  padding-top: 5px;
+  text-align: center;
+  color: red;
+}
+.box{
+  width: 1300px;
+  height: 420px;
+}
+.leftBox{
+  float: left;
+  width: 350px;
+  height: 420px;
+
+  padding-left:110px;
+}
+.rightBox{
+  width: 657px;
+  height: 420px;
+  float: right;
+  
+
+
+}
+#elon{
+  height: 200px;
+  width: 200px;
+  padding-left: 100px;
+}
+#Child{
+  float: right;
+}
+#ComFou{
+  margin-bottom: 40px;
+}
+#Zip2{
+  margin-top: 20px;
+}
+#X{
+  margin-bottom: 50px;
+}
+.centerBox{
+  padding-top: 20px;
+  margin-left: 200px;
+
+  margin-bottom: 5px;
+}
+#PopMedia
+{
+  margin-top: 230px;
+}
+#mau{
+  color: red;
+}
+#mau1{
+  color: blue;
+}
